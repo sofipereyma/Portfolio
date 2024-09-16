@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio by QA Engineer Trainer/Junior
+Portfolio by QA Engineer Intern/Junior
