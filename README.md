@@ -2,6 +2,6 @@
 
 ## I,m begginner QA Engineer 
 
-Languages and Tools
-
+## Languages and Tools
+![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=Git&logoColor=f76300)
 Resume HH.ru
